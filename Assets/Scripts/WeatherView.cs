@@ -1,19 +1,17 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 
-
 public class WeatherView : MonoBehaviour
 {
-    public Text text;
-    public Image image;
+    public Text weatherText;
+    public Image weatherIcon;
 
-    public void DisplayText(WetherClass wether)
+    public void UpdateWeather(WeatherPeriod weather)
     {
-        text.text = $"Сейчас - {wether.temperature}{wether.temperatureUnit}";
-        StartCoroutine(LoadIcon(wether.icon));
+        weatherText.text = $"Сегодня - {weather.temperature}{weather.temperatureUnit}";
+        StartCoroutine(LoadIcon(weather.icon));
     }
 
     private IEnumerator LoadIcon(string url)
@@ -24,12 +22,14 @@ public class WeatherView : MonoBehaviour
         if (request.result == UnityWebRequest.Result.Success)
         {
             Texture2D texture = ((DownloadHandlerTexture)request.downloadHandler).texture;
-
-            image.sprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), new Vector2(0.5f, 0.5f));
+            weatherIcon.sprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), new Vector2(0.5f, 0.5f));
+            Color color = weatherIcon.color;
+            color.a = 1f;
+            weatherIcon.color = color;
         }
         else
         {
-            Debug.Log("error");
-        }    
+            Debug.LogError($"Icon load error: {request.error}");
+        }
     }
 }
