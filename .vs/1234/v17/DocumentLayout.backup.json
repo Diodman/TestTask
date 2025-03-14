@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\Programming\\Game_Patern\\1234\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|d:\\programming\\game_patern\\1234\\assets\\scripts\\weatherview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|d:\\programming\\game_patern\\1234\\assets\\scripts\\dogfactsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dogfactsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|d:\\programming\\game_patern\\1234\\assets\\scripts\\dogbreeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dogbreeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|D:\\Programming\\Game_Patern\\1234\\assets\\scripts\\weatherview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weatherview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,12 +19,20 @@
       "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|D:\\Programming\\Game_Patern\\1234\\assets\\scripts\\weatherinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weatherinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|D:\\Programming\\Game_Patern\\1234\\assets\\scripts\\weatherserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weatherserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|d:\\programming\\game_patern\\1234\\assets\\scripts\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|D:\\Programming\\Game_Patern\\1234\\assets\\scripts\\dogmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dogmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|D:\\Programming\\Game_Patern\\1234\\assets\\scripts\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|D:\\Programming\\Game_Patern\\1234\\assets\\scripts\\weatherinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD3D2F5-F89A-4E65-8D26-1AF5F2602DC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weatherinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,78 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherInstaller.cs",
-              "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\WeatherInstaller.cs",
-              "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherInstaller.cs",
-              "RelativeToolTip": "Assets\\Scripts\\WeatherInstaller.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DogBreedData.cs",
+              "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\DogBreedData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DogBreedData.cs",
+              "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\DogBreedData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DogBreedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T11:34:05Z"
+              "WhenOpened": "2025-03-14T09:11:21.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DogFactsView.cs",
+              "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\DogFactsView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DogFactsView.cs",
+              "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\DogFactsView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DogFactsView.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA7wEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:10:36.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DogModels.cs",
+              "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\DogModels.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DogModels.cs",
+              "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\DogModels.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DogModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:10:34.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherServer.cs",
+              "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherServer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeatherServer.cs",
+              "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherServer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeatherServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:18:34.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherView.cs",
               "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherView.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WeatherView.cs",
               "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherView.cs",
               "RelativeToolTip": "Assets\\Scripts\\WeatherView.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T09:55:51.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherController.cs",
               "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WeatherController.cs",
               "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherController.cs",
               "RelativeToolTip": "Assets\\Scripts\\WeatherController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T09:52:44.869Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "05b3a92e-a938-48c9-942e-876d1d03560d",
-        "Display": 0,
-        "X": 838,
-        "Y": 458,
-        "Width": 1127,
-        "Height": 393,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2025-03-12T09:52:44.869Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "WeatherInstaller.cs",
+              "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeatherInstaller.cs",
+              "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeatherInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:34:05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "WeatherModel.cs",
               "DocumentMoniker": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherModel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WeatherModel.cs",
               "ToolTip": "D:\\Programming\\Game_Patern\\1234\\Assets\\Scripts\\WeatherModel.cs",
               "RelativeToolTip": "Assets\\Scripts\\WeatherModel.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T09:36:52.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T09:36:52.923Z"
             }
           ]
         }

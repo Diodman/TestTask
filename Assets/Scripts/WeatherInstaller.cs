@@ -9,7 +9,10 @@ public class WeatherInstaller : MonoInstaller
     public override void InstallBindings()
     {
         Container.Bind<WeatherView>().FromComponentInHierarchy().AsSingle();
+        Container.Bind<DogFactsView>().FromComponentInHierarchy().AsSingle();
         Container.Bind<WeatherController>().FromComponentInHierarchy().AsSingle();
+        Container.Bind<DogController>().FromComponentInHierarchy().AsSingle();
         Container.Bind<WeatherServer>().FromComponentInHierarchy().AsSingle();
     }
 }
+

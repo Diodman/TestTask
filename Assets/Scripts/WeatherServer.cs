@@ -6,6 +6,10 @@ using Zenject;
 public class WeatherServer : MonoBehaviour
 {
     private WeatherController weatherController;
+    private DogController dogController;
+
+    [Inject]
+    private DogFactsView dogFactsView;
 
     [Inject]
     public void Construct(WeatherController weatherController)
@@ -13,10 +17,22 @@ public class WeatherServer : MonoBehaviour
         this.weatherController = weatherController;
     }
 
-    private bool isOnFirstScreen = true;
-
     void Start()
     {
         weatherController.StartWeatherUpdates();
+    }
+
+    public void OnWeatherTabSelected()
+    {
+        weatherController.StartWeatherUpdates();
+        dogFactsView.gameObject.SetActive(false);
+        weatherController.gameObject.SetActive(true);
+    }
+
+    public void OnDogFactsTabSelected()
+    {
+        dogController.StartDogBreedsUpdates();
+        weatherController.gameObject.SetActive(false);
+        dogFactsView.gameObject.SetActive(true);
     }
 }

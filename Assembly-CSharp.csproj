@@ -61,10 +61,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\WeatherServer.cs" />
+    <Compile Include="Assets\Scripts\DogModels.cs" />
+    <Compile Include="Assets\Scripts\DogBreedData.cs" />
     <Compile Include="Assets\Scripts\WeatherView.cs" />
+    <Compile Include="Assets\Scripts\DogControlles.cs" />
     <Compile Include="Assets\Scripts\WeatherModel.cs" />
     <Compile Include="Assets\Scripts\WeatherInstaller.cs" />
     <Compile Include="Assets\Scripts\WeatherController.cs" />
+    <Compile Include="Assets\Scripts\DogFactsView.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
